@@ -8,7 +8,7 @@
     <div class="post-body">
         {% if post.content contains '<!--more-->' %}
     {{ post.content | split:'<!--more-->' | first }}
-	<a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+	<a href="{{ site.baseurl }}{{ post.url }}">ادامه را بخوانید!</a>
 {% else %}
     {{ include.content }}
 {% endif %}
