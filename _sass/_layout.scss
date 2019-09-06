@@ -68,7 +68,7 @@
         max-width: 75%;
         margin-left: auto;
         margin-right: auto;
-
+        text-align:center;
         @include min-breakpoint($image-splitting-breakpoint) {
             font-size: 18px;
             line-height: 1;

@@ -1,3 +1,29 @@
+/* Code from  https://github.com/diezcami/arctic-fox-theme/blob/master/css/main.scss */
+
+// Our variables
+$base-font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.895;
+$large-font-size:  $base-font-size * 1.40;
+
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #454545;
+$background-color: #FFF;
+$brand-color:      #828282;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 30%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    700px;
+$on-palm:          700px;
+$on-laptop:        700px;
+
+
 /* Universal box-sizing as per https://css-tricks.com/box-sizing/ */
 html {
     -webkit-box-sizing: border-box;
@@ -31,7 +57,178 @@ body {
     }
 }
 
-a {
-    text-decoration: none;
-    color: #443E40;
+
+/* Code from  https://github.com/diezcami/arctic-fox-theme/blob/master/css/main.scss */
+
+/* Images and Figures
+ * ============================================== */
+    img {
+	display: block;
+        max-width: 100%;
+	height:auto;
+        vertical-align: middle;
+    }
+
+    figcaption {
+        font-size: $small-font-size;
+    }
+
+/* Lists
+ * ============================================== */
+    ul, ol {
+        margin-left: $spacing-unit;
+    }
+
+    li {
+        > ul,
+        > ol {
+             margin-bottom: 0;
+        }
+    }
+
+/* Headers
+ * ============================================== */
+    h1, h2, h3, h4, h5, h6 {
+        font-weight: bold;
+        margin-bottom: 0px;
+    }
+
+    h1 {font-size: 1.9em !important;}
+    h2, {font-size: 1.5em !important;}
+    h3 {font-size: 1.3em;}
+    h4 {font-size: 1em;}
+    h5 {font-size: .9em;}
+    h6 {font-size: .8em;}
+
+
+/* Links
+ * ============================================== */
+    a {
+        color: #00B2EE;
+        text-decoration: none;
+
+        &:hover {
+            color: $brand-color;
+            text-decoration: none;
+        }
+    }
+
+/* Block Quotes
+ * ============================================== */
+    blockquote {
+        color: #BBB;
+        border-left: 4px solid $brand-color;
+        padding-left: $spacing-unit / 2;
+        font-size: 17px;
+        letter-spacing: -1px;
+        font-style: italic;
+
+        > :last-child {
+            margin-bottom: 0;
+        }
+    }
+
+/* Code Blocks
+ * ============================================== */
+    pre,
+    code {
+        font-size: 13px;
+        border: 1px solid $grey-color-light;
+        font-family: Menlo, Monaco, "Andale Mono", serif;
+    }
+
+    code {
+        padding: 1px 3px;
+        background-color: #FFF;
+        border-radius: 5px;
+    }
+
+    pre {
+        border-radius: 3px;
+        padding: 8px 12px;
+        overflow-x: scroll;
+        background-color: #F5F5F5;
+
+        > code {
+            background-color: #F5F5F5;
+            border: 0;
+            padding-right: 0;
+            padding-left: 0;
+        }
+    }
+
+
+/* Clear Fix
+ * ============================================== */
+    %clearfix {
+
+        &:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+    }
+
+/* TABLES
+ * =============================================== */
+    table {
+        border-collapse: collapse;
+        border-spacing: 0
+    }
+
+    :not(.highlight)>table {
+    margin: 0 auto 1.5em auto
+    }
+
+    :not(.highlight)>table tr {
+        background-color: #fff;
+        border-top: 1px solid #ccc
+    }
+
+    :not(.highlight)>table tr th, :not(.highlight)>table tr td {
+        padding: 6px 13px;
+        border: 1px solid #ddd
+    }
+
+    :not(.highlight)>table tr th {
+        font-weight: bold
+    }
+
+    :not(.highlight)>table tr:nth-child(2n) {
+        background-color: #f8f8f8
+    }
+
+/* Code for handling RTL and Sahel Font */
+
+@font-face {
+  font-family: Sahel;
+  src: url('https://cdn.rawgit.com/rastikerdar/sahel-font/v1.0.0-alpha22/dist/Sahel.eot');
+  src: url('https://cdn.rawgit.com/rastikerdar/sahel-font/v1.0.0-alpha22/dist/Sahel.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.rawgit.com/rastikerdar/sahel-font/v1.0.0-alpha22/dist/Sahel.woff') format('woff'),
+       url('https://cdn.rawgit.com/rastikerdar/sahel-font/v1.0.0-alpha22/dist/Sahel.ttf') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Sahel;
+  src: url('https://cdn.rawgit.com/rastikerdar/sahel-font/v1.0.0-alpha22/dist/Sahel-Bold.eot');
+  src: url('https://cdn.rawgit.com/rastikerdar/sahel-font/v1.0.0-alpha22/dist/Sahel-Bold.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.rawgit.com/rastikerdar/sahel-font/v1.0.0-alpha22/dist/Sahel-Bold.woff') format('woff'),
+       url('https://cdn.rawgit.com/rastikerdar/sahel-font/v1.0.0-alpha22/dist/Sahel-Bold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Sahel;
+  src: url('https://cdn.rawgit.com/rastikerdar/sahel-font/v1.0.0-alpha22/dist/Sahel-Black.eot');
+  src: url('https://cdn.rawgit.com/rastikerdar/sahel-font/v1.0.0-alpha22/dist/Sahel-Black.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.rawgit.com/rastikerdar/sahel-font/v1.0.0-alpha22/dist/Sahel-Black.woff') format('woff'),
+       url('https://cdn.rawgit.com/rastikerdar/sahel-font/v1.0.0-alpha22/dist/Sahel-Black.ttf') format('truetype');
+  font-weight: 900;
+}
+
+html,h1,h2,h3,p,section,article{
+  font-family: Sahel !important;
+  direction:rtl;
+  text-align:right;
 }
