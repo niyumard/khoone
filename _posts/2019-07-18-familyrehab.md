@@ -2,7 +2,9 @@
 layout: post
 title:  "Communication Problem"
 date:  2019-07-18
-categories: reddit issue communication
+categories: miscellaneous
+summary: ارتباط با دیگران و بهتر شنیدن
+tags: [communication, family, listening, گوش دادن, ردیت, مهارت گوش دادن]
 ---
 
 داشتم یک مطلبی توی [ردیت](https://www.reddit.com/r/LifeProTips/comments/cer80o/lpt_the_biggest_communication_problem_is_that_we/) می‌خوندم:

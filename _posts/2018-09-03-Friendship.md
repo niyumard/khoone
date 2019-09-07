@@ -2,7 +2,9 @@
 layout: post
 title:  "Friendship"
 date:   2018-09-03
-categories: friendship USA library
+categories: politics
+summary: دوستی با کشورهای دیگر و منافع مشترک
+tags: [usa, friendship, mutual benefit, library, shahid beheshti university, دانشگاه شهید بهشتی, کتابهانه, اهدا]
 ---
 
 آدم بعضی وقت‌ها دوست داره به عقب برگرده، زمانی که کشورها با هم دوست بودن و به جای سنگ‌اندازی به هم کمک می‌کردن

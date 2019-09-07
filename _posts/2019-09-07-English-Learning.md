@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "English Self-Study"
+title:  "خودآموزی زبان انگلیسی"
 date:  2019-09-07
-categories: english self-study زبان انگلیسی خودآموزی
+categories: miscellaneous
+summary: آموزش مهارت خودآموزی زبان انگلیسی
+tags: [زبان, زبان انگلیسی, خودآموزی زبان انگلیسی, bbc learning english, یادگیری زبان, یادگیری زبان با آهنگ, ۵۰۴, GoldenDict, گلدن دیکت, انکی, فلش کارت, منابع یادگیری زبان]
+
 ---
 
 به نظر من برای یادگیری زبان درک و به‌کارگرفتن دو ضرب‌المثل انگلیسی

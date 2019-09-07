@@ -2,7 +2,10 @@
 layout: post
 title:  "Expected Value"
 date:   2019-02-10
-categories: expected_value math statistics امید_ریاضی آمار میانگین average
+categories: economics
+summary: آموزش مفهومی امید ریاضی و میانگین
+tags: [usa, friendship, mutual benefit, library, shahid beheshti university]
+
 ---
 
 # امید ریاضی
