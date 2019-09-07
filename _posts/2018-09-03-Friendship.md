@@ -2,9 +2,10 @@
 layout: post
 title:  "Friendship"
 date:   2018-09-03
+permalink: /Friendship_and_mutual_benefit_in_Shahid_Beheshte_University_s_Library
 categories: politics
 summary: دوستی با کشورهای دیگر و منافع مشترک
-tags: [usa, friendship, mutual benefit, library, shahid beheshti university, دانشگاه شهید بهشتی, کتابهانه, اهدا]
+tags: [usa, friendship, mutual benefit, library, shahid beheshti university, دانشگاه شهید بهشتی, دانشگاه ملی ,کتابخانه, اهدا]
 ---
 
 آدم بعضی وقت‌ها دوست داره به عقب برگرده، زمانی که کشورها با هم دوست بودن و به جای سنگ‌اندازی به هم کمک می‌کردن
