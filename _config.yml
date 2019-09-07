@@ -14,8 +14,7 @@ picturefill: true
 
 # Build settings
 markdown: kramdown
-permalink: pretty
-
+permalink: /:title:output_ext
 # Pagination
 paginate: 5
 excerpt_separator: <!--more-->
