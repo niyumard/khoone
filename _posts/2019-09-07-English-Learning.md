@@ -279,7 +279,7 @@ Language](https://www.youtube.com/watch?v=OdbtoQ9FRLA) که درمورد یک
 برای پادکست باز هم یوتیوب خوبه!!!! مثلاً این قسمت از
 [6](https://www.youtube.com/watch?v=JjESWHykTJQ)[Minutes
 English](https://www.youtube.com/watch?v=JjESWHykTJQ) فایل صوتیش هم هست،
-ولی توی یوتیوب زیرنویسی که تولید میشه بهتون خیلی کمک می‌کنه. پ[ادکست‌های
+ولی توی یوتیوب زیرنویسی که تولید میشه بهتون خیلی کمک می‌کنه. [پادکست‌های
 بریتیش
 کونسیل](http://learnenglish.britishcouncil.org/learnenglish-podcasts/series-01)
 هم هست که پایین‌تر هم میتونید اپش رو ببینید ولی به نظرم شش دقیقه با
