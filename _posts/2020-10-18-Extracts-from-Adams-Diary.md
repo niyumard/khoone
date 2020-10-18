@@ -150,4 +150,4 @@ tags: [Extracts from Adam's Diary, Mark Twain, مارک تواین, مارک ت�
 
 [3] - بر این عقیده‌اند که قابیل موهایی قرمز داشته
 
-[4] - این اثر ترجمه‌ای است از [Extracts from Adam's Diary](https://americanliterature.com/author/mark-twain/short-story/extracts-from-adams-diary) از نسخه‌ی منتشر شده در تارنمایamericanliterature.com.
+[4] - این اثر ترجمه‌ای است از [Extracts from Adam's Diary](https://americanliterature.com/author/mark-twain/short-story/extracts-from-adams-diary)، نسخه‌ی منتشرشده در تارنمای americanliterature.com.
