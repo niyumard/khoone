@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "بریده‌هایی از دفترچه خاطرات آدم"
+title:  "ترجمهٔ بریده‌هایی از دفترچه خاطرات آدم"
 date: 2020-10-18
 categories: english_learning
 summary: ترجمه‌ی Extracts from Adam's Diary به فارسی 
-tags: [Extracts from Adam's Diary, Mark Twain, مارک تواین, مارک توین, بریده‌هایی از دفترچه خاطرات آدم, خاطرات آدم]
+tags: [Extracts from Adam's Diary, Mark Twain, مارک تواین, مارک توین, بریده‌هایی از دفترچه خاطرات آدم, خاطرات آدم, ترجمه, ترجمه خاطرات آدم]
 ---
 
 چندسال پیش یک داستان کوتاه طنز از مارک تواِین ترجمه کردم که بد ندیدم دوباره منتشرش کنم :)
